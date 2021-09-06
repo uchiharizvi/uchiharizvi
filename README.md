@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uchiharizvi
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Angular JS, React JS, Node JS, Apigee and Java
+- 🌱 I’m currently learning Kafka, Node JS, Apigee and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
